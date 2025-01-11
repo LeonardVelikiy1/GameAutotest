@@ -3,6 +3,8 @@ package org.example.character;
 import java.util.Objects;
 
 public abstract class Fighter extends Character {
+
+
     protected int hp;
     protected int power;
     protected int defence;
