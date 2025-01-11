@@ -4,27 +4,135 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="421cef5a-f9b8-4496-9875-e5a707b2169e" name="Changes" comment="" />
+    <list default="true" id="421cef5a-f9b8-4496-9875-e5a707b2169e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AutoTest/steps/PlayerSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/character/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/character/Difficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/character/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/character/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/character/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/character/factory/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/character/factory/MonsterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/character/factory/PlayerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AutoTest/GameAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LeonardVelikiy1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LeonardVelikiy1/GameAutotest.git&quot;,
+    &quot;accountId&quot;: &quot;bdff2566-1648-4abf-bc00-b86387fff121&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2qWKSPzFBR1s9draG1qahJOOfdh" />
   <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.GameAPITest.createPlayerTest.executor": "Run",
+    "JUnit.GameAPITest.createUserTest.executor": "Run",
+    "JUnit.GameAPITest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/LeonardVeliky/IdeaProjects/GameAutotest/src/main/java/org/example",
     "onboarding.tips.debug.path": "C:/Users/LeonardVeliky/IdeaProjects/AutoTest/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.AutoTest.steps" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LeonardVeliky\IdeaProjects\GameAutotest\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GameAPITest">
+    <configuration name="GameAPITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.AutoTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.AutoTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AutoTest.GameAPITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameAPITest.createPlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.AutoTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.AutoTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AutoTest.GameAPITest" />
+      <option name="METHOD_NAME" value="createPlayerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameAPITest.createUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.AutoTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.AutoTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AutoTest.GameAPITest" />
+      <option name="METHOD_NAME" value="createUserTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GameAPITest" />
+        <item itemvalue="JUnit.GameAPITest.createPlayerTest" />
+        <item itemvalue="JUnit.GameAPITest.createUserTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
